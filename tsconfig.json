@@ -1,0 +1,27 @@
+{
+  "extends": "./tsconfig.node.json",
+  "compilerOptions": {
+    "composite": false,
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2022",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*",
+    "src/**/*.test.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "dist_release"
+  ]
+}

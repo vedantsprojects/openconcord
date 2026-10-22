@@ -1,0 +1,35 @@
+{
+    "name": "@types/serialize-javascript",
+    "version": "5.0.4",
+    "description": "TypeScript definitions for serialize-javascript",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/serialize-javascript",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Pochodaydayup",
+            "githubUsername": "Pochodaydayup",
+            "url": "https://github.com/Pochodaydayup"
+        },
+        {
+            "name": "undefined-moe",
+            "githubUsername": "undefined-moe",
+            "url": "https://github.com/undefined-moe"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "githubUsername": "peterblazejewicz",
+            "url": "https://github.com/peterblazejewicz"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/serialize-javascript"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "3abaaafcacc0af1fd8b9c36b0b0dc1e01c973040edca90614cd1176a61df38d3",
+    "typeScriptVersion": "4.5"
+}
